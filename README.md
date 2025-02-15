@@ -9,6 +9,6 @@ Birdsong recognition plays a vital role in biodiversity research and conservatio
 
 | Dataset Name | Link |
 |------------|------|
-| Self-build    | [Click to Access](https://pan.baidu.com/s/1OzUKBWX1g_7J3XNkGRpuew?pwd=d93x) |
+
 | BirdData    | [Click to Access](https://pan.baidu.com/s/1mumSwDIu7RBDVVtoucZDpw?pwd=h23b) |
 
